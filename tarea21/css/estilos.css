@@ -1,0 +1,32 @@
+* {
+    background-color: black;
+    margin-left: 5px;
+    font-family: 'Libre Baskerville', serif;
+}
+h1 {
+    color: white;
+}
+ul {
+    list-style: none;
+    font-size: 18px;
+    padding: 4px;
+}
+ol {
+    list-style: none;
+}
+ol li:first-child {
+    color: blue;
+}
+ol li {
+    color: #00cca3;
+    padding: 3px;
+}
+.title {
+    color: #997300;
+    font-weight: 800;
+}
+img {
+    margin: 15px 0px 15px 50px;   
+    width: 250px;
+    border-radius: 30px;
+}
