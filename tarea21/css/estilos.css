@@ -28,5 +28,6 @@ ol li {
 img {
     margin: 15px 0px 15px 50px;   
     width: 250px;
+    height: 150px;
     border-radius: 30px;
 }
